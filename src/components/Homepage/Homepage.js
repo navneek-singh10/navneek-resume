@@ -15,10 +15,10 @@ function Homepage(){
         in voluptate velit esse cillum dolore fugiat nulla 
         </p>
         <div>
-            <a href="" target="_blank"><img src={github} alt="githubimage" className="homepage_logo"/></a> 
-            <a href="" target="_blank"><img src={linkedIn} alt="linkedinimage" className="homepage_logo"/></a>
+            <a href="https://github.com/navneek-singh10" target="_blank"><img src={github} alt="githubimage" className="homepage_logo"/></a> 
+            <a href="www.linkedin.com/in/navneek-singh-0330851b7" target="_blank"><img src={linkedIn} alt="linkedinimage" className="homepage_logo"/></a>
         </div>
-        <a href="">
+        <a href="mailto:navdoad01@gmail.com">
             <button className="homepage_left_button">Get in Touch</button>
              </a>
         </div>
