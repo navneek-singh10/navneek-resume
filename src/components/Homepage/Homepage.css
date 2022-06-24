@@ -43,9 +43,11 @@
     margin-top: 25px;
     font-size: 25px;
     padding: 8px 10px;
-    background-color: black;
+    background-color: #181818;
+    border-radius: 20px;
     color: red;
     cursor: pointer;
+    
 }
 .homepage_logo{
     height: 90px;

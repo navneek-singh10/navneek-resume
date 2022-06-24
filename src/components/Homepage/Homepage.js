@@ -2,6 +2,7 @@ import React from "react";
 import './Homepage.css';
 import github from '../../images/github.png';
 import linkedIn from '../../images/linkedIn.png';
+
 function Homepage(){
     return (
         <div className="homepage_container">
