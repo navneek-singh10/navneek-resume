@@ -5,6 +5,7 @@
     align-items: center;
     height: 90vh;
     margin-top: 5%;
+    /*background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRby2bpVZ9BOr2L49m1gBbaAf8gABYlA92vxA&usqp=CAU');*/
 }
 .homepage_left{
     flex: 0.6;
