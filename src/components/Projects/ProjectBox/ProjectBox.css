@@ -1,20 +1,20 @@
 
 
 .project_box_container{
-    width: 550px;
+    width: 500px;
     margin: 20px;
     box-shadow: 0 5px 15px red;
-    padding: 7px;
+    padding: 0 10px;
 }
 .project_box_image_container > img{
-    width: 550px;
+    width: 500px;
 }
 .project_box_description_container{
     padding: 0 10px;
 }
 .project_box_title{
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 500;
     text-align: center;
     color: red;
 }

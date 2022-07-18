@@ -5,7 +5,8 @@ import js from '../../images/js.png';
 import react from '../../images/react.svg';
 import html from '../../images/html.svg';
 import css from '../../images/css.svg';
-import wordpress from '../../images/wordpress.png';
+import github from '../../images/github.svg';
+import python from '../../images/python.png';
 import TechStackIconContainer from "./TechStackIconContainer/TechStackIconContainer";
 
 
@@ -39,9 +40,14 @@ const techstackData2=[
         iconAltProperty: "cppImage", 
     },
     {
-        iconName: 'WordPress',
-        iconImage: wordpress,
-        iconAltProperty: "wordpressImage", 
+        iconName: 'Python',
+        iconImage: python,
+        iconAltProperty: "pythonImage", 
+    },
+    {
+        iconName: 'GitHub',
+        iconImage: github,
+        iconAltProperty: "githubImage", 
     },
 ];
 
@@ -60,7 +66,7 @@ const techstackData2=[
                     );
                 })}
             </div>
-            <div className="techstack_icon_container">
+            <div className="techstack_icon_container2">
                 {techstackData2.map((item, index) => {
                     return (
                     <TechStackIconContainer

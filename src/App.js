@@ -19,7 +19,7 @@ function App() {
   return (
   <div>
     <div className="app"><Navbar /></div>
-    <div className="app"><Homepage/></div>
+    <div><Homepage/></div>
     <div><TechStack /></div>
     <div className="app"><Experience/></div>
     <div className="app"><Projects/></div>

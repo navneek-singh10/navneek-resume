@@ -15,7 +15,7 @@
     font-size: 35px;
     font-weight: 700;
     color: red;
-    opacity: 0.8;
+    opacity: 0.9;
     transition: transform 300ms;
 }
 .navbar_left:hover{

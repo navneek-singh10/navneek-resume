@@ -2,10 +2,9 @@
 
 .techstack_container{
     height: 80vh;
-    background-color: #181818;
     padding-top: 1%;
     padding-bottom: 5%;
-    margin-top: 3%;
+    margin-top: 4%;
 }
 
 .techstack_title{
@@ -19,8 +18,8 @@
     
     
 }
-/*.techstack_icon_container2{
+.techstack_icon_container2{
     display: flex;
     margin: 100px 0;
-    padding: 0 25%;
-}*/
+    padding: 0 11%;
+}
