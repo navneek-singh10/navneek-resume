@@ -5,6 +5,7 @@
     margin: 20px;
     box-shadow: 0 5px 15px red;
     padding: 0 10px;
+    padding-top: 5px;
 }
 .project_box_image_container > img{
     width: 500px;

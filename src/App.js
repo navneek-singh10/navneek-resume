@@ -18,7 +18,7 @@ import Projects from "./components/Projects/Projects";
 function App() {
   return (
   <div>
-    <div className="app"><Navbar /></div>
+    <div><Navbar /></div>
     <div><Homepage/></div>
     <div><TechStack /></div>
     <div className="app"><Experience/></div>
