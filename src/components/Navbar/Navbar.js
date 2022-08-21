@@ -11,9 +11,9 @@ function Navbar(){
             <div className="navbar_left">{name}</div>
             <div className="navbar_right">
             <p>About</p>
-            <p>Tools</p>
+            <p><a href="#TechStack">Tools</a></p>
             {/*<p>Experience</p>*/}
-            <p>Projects</p>
+            <p><a href="#projects">Projects</a></p>
             <p>Resume</p>
             </div>
             

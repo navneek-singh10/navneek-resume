@@ -53,7 +53,7 @@ const techstackData2=[
 
 
     return (
-        <div className="techstack_container">
+        <div className="techstack_container" id="TechStack">
             <p className="techstack_title">Tech Stack</p>
             <div className="techstack_icon_container">
                 {techstackData.map((item, index) => {

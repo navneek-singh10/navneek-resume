@@ -16,7 +16,8 @@
     font-weight: 700;
     color: red;
     opacity: 0.9;
-    transition: transform 300ms
+    transition: transform 300ms;
+    cursor:pointer
 }
 .navbar_left:hover{
     transform: scale(1.1);

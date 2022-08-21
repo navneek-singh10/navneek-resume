@@ -8,7 +8,7 @@ export default function ProjectBox({image, title, sentences, link}){
    ))
    
     return (
-        <div className="project_box_container">
+        <div className="project_box_container" id="projects">
             <div className="project_box_image_container">
             <img src={image}/>
             </div>
