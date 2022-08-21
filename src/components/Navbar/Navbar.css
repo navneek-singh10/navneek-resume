@@ -36,6 +36,13 @@
     font-size: 18px;
    font-weight: 500;
 }
+a{
+    color: white;
+}
+a:hover{
+    background-color: white;
+    color: red;
+}
 
 .navbar_right > p:hover{
     background-color: white;
