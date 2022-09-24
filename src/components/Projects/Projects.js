@@ -10,9 +10,9 @@ export default function Projects(){
             iconImage: netflix_clone,
             title:'Netflix Clone',
             sentences: [
-                "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-                "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores",
-                "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum",
+                " It has a login, signup and signout functionality.",
+                " Technologies - Reactjs, JavaScript, HTML, CSS",
+                
             ],
             link: 'https://netflix-clone-navneek.netlify.app/'
         },
@@ -20,9 +20,9 @@ export default function Projects(){
             iconImage: todoapp,
             title:'ToDo App',
             sentences: [
-                "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-                "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores",
-                "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum",
+                "It has an add a todo list and delete function also",
+                "React Hooks are used in this",
+                "Technologies - Reactjs, JavaScript, HTML, CSS",
             ],
             link: 'https://todolist-app-navneek.herokuapp.com/'
         },

@@ -40,8 +40,8 @@ a{
     color: white;
 }
 a:hover{
-    background-color: white;
     color: red;
+    border-radius: 8px;
 }
 
 .navbar_right > p:hover{
