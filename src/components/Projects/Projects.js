@@ -21,7 +21,6 @@ export default function Projects(){
             title:'ToDo App',
             sentences: [
                 "It has an add a todo list and delete function also",
-                "React Hooks are used in this",
                 "Technologies - Reactjs, JavaScript, HTML, CSS",
             ],
             link: 'https://todolist-app-navneek.herokuapp.com/'
