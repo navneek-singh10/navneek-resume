@@ -21,7 +21,7 @@ function App() {
     <div><Navbar /></div>
     <div><Homepage/></div>
     <div><TechStack /></div>
-    <div className="app"><Experience/></div>
+    {/* <div className="app"><Experience/></div> */}
     <div className="app"><Projects/></div>
     </div>
   );
