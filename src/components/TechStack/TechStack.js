@@ -39,11 +39,7 @@ const techstackData2=[
         iconImage: c,
         iconAltProperty: "cppImage", 
     },
-    {
-        iconName: 'Python',
-        iconImage: python,
-        iconAltProperty: "pythonImage", 
-    },
+    
     {
         iconName: 'GitHub',
         iconImage: github,
