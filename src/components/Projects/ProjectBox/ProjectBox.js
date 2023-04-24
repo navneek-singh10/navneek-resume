@@ -24,4 +24,5 @@ export default function ProjectBox({image, title, sentences, link}){
             </div>
         </div>
     );
+    
 }
