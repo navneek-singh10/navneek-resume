@@ -48,7 +48,8 @@
 }
 .homepage_left_description{
     font-size: 25px;
-
+    font-style: italic;
+    color: whitesmoke;
 }
 .homepage_left_button{
     margin-top: 25px;

@@ -10,7 +10,7 @@ export default function Projects(){
             iconImage: netflix_clone,
             title:'Netflix Clone',
             sentences: [
-                " It has a login, signup and signout functionality.",
+                
                 " Technologies - Reactjs, JavaScript, HTML, CSS",
                 
             ],
@@ -20,10 +20,9 @@ export default function Projects(){
             iconImage: todoapp,
             title:'ToDo App',
             sentences: [
-                "It has an add a todo list and delete function also",
                 "Technologies - Reactjs, JavaScript, HTML, CSS",
             ],
-            link: 'https://todolist-app-navneek.herokuapp.com/'
+            link: 'https://navneek-todo-app.netlify.app/'
         },
      ];
 
