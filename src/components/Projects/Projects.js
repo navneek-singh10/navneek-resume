@@ -14,7 +14,7 @@ export default function Projects(){
                 " Technologies - Reactjs, JavaScript, HTML, CSS",
                 
             ],
-            link: 'https://netflix-clone-navneek.netlify.app/'
+            link: 'https://netflix-clone-navneek.vercel.app/'
         },
         {
             iconImage: todoapp,
